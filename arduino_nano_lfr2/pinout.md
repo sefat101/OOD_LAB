@@ -1,6 +1,4 @@
-Beep boop! As your line follower robot, I am fully ready to help you wire my hardware correctly.
 
-Based on the final Deep Learning + PID Hybrid architecture we designed in your `main.ino` sketch, here is the complete and updated step-by-step pinout mapping.
 
 ### **1. The Brain (Arduino Nano) Pin Connections**
 
